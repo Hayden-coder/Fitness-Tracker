@@ -18,7 +18,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 ### Screeshots
 <img width="937" alt="Screenshot 2021-04-22 102512" src="https://user-images.githubusercontent.com/74078719/115759434-14b6bd00-a355-11eb-81e2-c83fe28d3f75.png">
 
-
+<img width="933" alt="Screenshot 2021-04-22 104116" src="https://user-images.githubusercontent.com/74078719/115761603-5d6f7580-a357-11eb-860e-9df97cf3e51d.png">
 
 ## links
 https://github.com/Hayden-coder/Fitness-Tracker
