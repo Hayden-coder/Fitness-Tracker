@@ -16,7 +16,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 3. node server.js
 
 ### Screeshots
-
+<img width="937" alt="Screenshot 2021-04-22 102512" src="https://user-images.githubusercontent.com/74078719/115759434-14b6bd00-a355-11eb-81e2-c83fe28d3f75.png">
 
 
 
