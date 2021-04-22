@@ -8,7 +8,6 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 * [Installation](#installation)
 * [Usage](#usage)
     * [Screenshots](#screenshots)
-    * [Snippets](#snippets)
 
 ## Installation
 
